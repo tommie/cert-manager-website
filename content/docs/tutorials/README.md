@@ -36,3 +36,4 @@ for you to learn from. Take a look!
 - A full cert-manager installation demo on a GKE Cluster. See [How-To: Automatic SSL Certificate Management for your Kubernetes Application Deployment](https://medium.com/contino-engineering/how-to-automatic-ssl-certificate-management-for-your-kubernetes-application-deployment-94b64dfc9114)
 - cert-manager installation on GKE Cluster using Workload Identity. See [Kubernetes, ingress-nginx, cert-manager & external-dns](https://blog.atomist.com/kubernetes-ingress-nginx-cert-manager-external-dns/)
 - A video tutorial for beginners showing cert-manager in action. See [Free SSL for Kubernetes with cert-manager](https://www.youtube.com/watch?v=hoLUigg4V18)
+- Using cert-manager to use [Let's Encrypt in Envoy Gateway](https://gateway.envoyproxy.io/latest/user/tls-cert-manager.html)
